@@ -33,7 +33,7 @@ f) Incorporating a 7x7 separable convolution (termed "position perceiver") withi
 
 * Flexible Deployment: YOLOv12 is designed for seamless deployment across a range of platforms, from edge devices to cloud-based infrastructures.
 
-* Future Scope
+# Future Scope
 
 1. The advancements in YOLOv12 pave the way for further research and development in the field of deep learning and computer vision. Potential future enhancements include:
 
